@@ -21,6 +21,14 @@
 
 <br/>
 
+## What is Vaultex
+
+Vaultex is distributed rate limiting service built for production APIs. It runs as a lightweight edge server that your existing services call before processing any request — returning an allow or block decision in under 2 milliseconds.
+
+Rules are defined once through the dashboard or API and applied consistently across every service in your stack. All decisions flow into a real-time analytics pipeline, giving you full visibility into traffic patterns, blocked requests, and latency across your entire API surface.
+
+<br/>
+
 ## Why Vaultex
 
 Most rate limiters live inside your app — a counter in Redis wired up by hand, duplicated across services, with no visibility into what's actually being blocked or why.
