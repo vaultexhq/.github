@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vaultexhq/.github/main/profile/vaultex-logo.svg" alt="Vaultex" width="100%" />
+  <img src="https://raw.githubusercontent.com/vaultexhq/.github/main/profile/vaultex-logo.svg" alt="Vaultex" width="128" height="128" />
 </p>
 
 <h3 align="center">Distributed rate limiting — sub-millisecond decisions at the edge</h3>
