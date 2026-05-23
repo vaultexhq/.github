@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vaultexhq/vaultex-go">
+  <a href="https://github.com/vaultexhq/sdks/go">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   </a>
-  <a href="https://github.com/vaultexhq/vaultex-node">
+  <a href="https://github.com/vaultexhq/sdks/node">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   </a>
-  <a href="https://github.com/vaultexhq/vaultex-python">
+  <a href="https://github.com/vaultexhq/sdks/python">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   </a>
 </p>
